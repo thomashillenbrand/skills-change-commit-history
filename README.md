@@ -68,7 +68,6 @@ There are multiple tools available for removing Git history, we'll use BFG Repo-
 <!--
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
-  notes
 -->
 
 ---
