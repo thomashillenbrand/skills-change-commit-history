@@ -9,6 +9,10 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
+# NOTE:
+Even after following the steps below, the .env remnants remain in the commit history.
+I have left everything on my branch in the state it was at the end of the STEP 2 updates.
+
 # Remove commit history
 
 Accidental commits can be tricky to remove with Git. In this GitHub Skills course, you'll use BFG Repo-Cleaner to change the history of a Git repository. You can apply what you learn in this course to fully remove sensitive material from your own repository.
